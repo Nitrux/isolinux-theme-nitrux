@@ -1,2 +1,2 @@
-# isolinux-nomad-theme
+# isolinux-theme-nomad
 Isolinux theme using the Nomad colorscheme.
